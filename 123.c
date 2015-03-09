@@ -1,3 +1,3 @@
 main(){
-sys();
+sys(hello git);
 }
